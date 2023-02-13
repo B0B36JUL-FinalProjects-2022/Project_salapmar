@@ -1,0 +1,4 @@
+name = "TitanicPkg"
+uuid = "047121b7-a87c-47e6-9942-0dde2f356935"
+authors = ["Marc Sala <sala.marc2000@gmail.com>"]
+version = "0.1.0"
